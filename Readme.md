@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/UseConstantLines/MainPage.xaml) (VB: [MainPage.xaml](./VB/UseConstantLines/MainPage.xaml))
+<!-- default file list end -->
 # How to use constant lines
 
 
